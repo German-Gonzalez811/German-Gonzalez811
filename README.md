@@ -1,2 +1,2 @@
-# Germ-n-Gonz-lez
+# German-Gonzalez
 Data Engineer &amp; Analyst | Environmental Engineer | Python • SQL
