@@ -2,15 +2,15 @@
 **Data Analyst / Data Engineer | Environmental Engineer | Python • SQL**
 
 ### 🔎 What I do
-- KPI reporting & data tracking (operations)
-- Data cleaning, EDA & visualization (Pandas/NumPy/Matplotlib)
+- Build KPI reports & tracking tools for operations
+- Clean, analyze, and visualize data (EDA) with Python
 
 ### 🧰 Tech
 Python (Pandas, NumPy, Matplotlib) • SQL • Excel (Advanced)
 
 ### 🌱 Now
-- Building my data portfolio (projects coming soon)
-- Learning data engineering fundamentals (ETL, data modeling)
+- Building portfolio projects (CO₂ analysis, SQL practice)
+- Learning ETL & data modeling fundamentals
 
 ### 🤝 Connect
 LinkedIn: https://www.linkedin.com/in/german-david-gonzalez-236065198/
