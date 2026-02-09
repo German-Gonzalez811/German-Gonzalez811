@@ -1,14 +1,19 @@
-<h1 align="center">Hi 👋, I'm Germán González 🇨🇴📊</h1>
-<h3 align="center">Data Engineer & Analyst | Environmental Engineer | Python • SQL</h3>
+## 👋 Hi, I'm Germán González 🇨🇴📊
+**Data Analyst / Data Engineer | Environmental Engineer | Python • SQL**
 
-- 🔭 I’m currently working on **KPI reporting & data tracking**
+### 🔎 What I do
+- KPI reporting & data tracking (operations)
+- Data cleaning, EDA & visualization (Pandas/NumPy/Matplotlib)
 
-- 🌱 I’m currently learning **Data Engineering**
+### 🧰 Tech
+Python (Pandas, NumPy, Matplotlib) • SQL • Excel (Advanced)
 
-- 👯 I’m looking to collaborate on Data analytics **CO₂ Emissions Analysis (Python)**
+### 🌱 Now
+- Building my data portfolio (projects coming soon)
+- Learning data engineering fundamentals (ETL, data modeling)
 
-- 👨‍💻 All of my projects are available at [https://github.com/German-Gonzalez811](https://github.com/German-Gonzalez811)
+### 🤝 Connect
+LinkedIn: https://www.linkedin.com/in/german-david-gonzalez-236065198/
+Email: germandavi09@hotmail.com
 
-- 💬 Ask me about **data cleaning, EDA, KPI reporting**
-
-- 📫 How to reach me **germandavi09@hotmail.com**
+⚡ Fun fact: I turn data into stories—with **sazón latino** 🇱🇦
