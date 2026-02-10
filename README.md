@@ -15,5 +15,3 @@ Python (Pandas, NumPy, Matplotlib) • SQL • Excel (Advanced)
 ### 🤝 Connect
 - LinkedIn: https://www.linkedin.com/in/german-david-gonzalez-236065198/
 - Email: germandavi09@hotmail.com
-
-⚡ Fun fact: I turn data into stories—with **sazón latino** 🇱🇦
