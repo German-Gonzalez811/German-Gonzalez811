@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="mi-banner.png" alt="GitHub Banner" width="100%" />
+</p>
+
 ## 👋 Hi, I'm Germán González 🇨🇴📊
 **Data Analyst / Data Engineer | Environmental Engineer | Python • SQL**
 
