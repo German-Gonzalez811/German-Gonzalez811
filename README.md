@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Banner-github.png" alt="GitHub Banner" width="80%" />
+  <img src="Banner-github.png" alt="GitHub Banner" width="100%" />
 </p>
 
 ## 👋 Hi, I'm Germán González 🇨🇴📊
