@@ -10,7 +10,10 @@
 - Clean, analyze, and visualize data (EDA) with Python
 
 ### 🧰 Tech
-Python (Pandas, NumPy, Matplotlib) • SQL • Excel (Advanced)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### 🌱 Now
 - Building portfolio projects (CO₂ analysis, SQL practice)
