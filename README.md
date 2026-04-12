@@ -16,8 +16,16 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### 🌱 Now
-- Building portfolio projects (CO₂ analysis, SQL practice)
-- Learning ETL & data modeling fundamentals
+- Building portfolio projects in Python and SQL
+- Learning ETL and data modeling fundamentals
+- Strengthening data analysis for business and operations
+
+
+## 🎓 Background
+- Environmental Engineer
+- Master's in Energy and Sustainability
+- Diploma in Environmental Studies
+- Growing into Data Analytics and Data Engineering
 
 ### 🤝 Connect
 - LinkedIn: https://www.linkedin.com/in/german-david-gonzalez-236065198/
