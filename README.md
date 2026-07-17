@@ -7,7 +7,7 @@
 
 ### 🔎 What I do
 - Build KPI reports & tracking tools for operations and business analysis
-- Clean, analyze, and analyze data using SQL, Excel, and Python
+- Clean, validate, and analyze data using SQL, Excel, and Python
 - Create dashboards and visual reports using Tableau
 - Translate business questions into data analysis, KPIs, and insights
 
