@@ -3,7 +3,7 @@
 </p>
 
 ## 👋 Hi, I'm Germán González 🇨🇴📊
-**Data Analyst / Aspirign Data Engineer | Environmental Engineer | Python • SQL**
+**Data Analyst / Aspiring Data Engineer | Environmental Engineer | Python • SQL**
 
 ### 🔎 What I do
 - Build KPI reports & tracking tools for operations and business analysis
